@@ -4,7 +4,6 @@
 
 <p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p><br>
 
-
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
 ### This is a study being conducted by the [NRG-Lab](https://www.nrg-lab.co.uk/) by the following researchers:
