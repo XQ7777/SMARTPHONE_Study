@@ -3,9 +3,9 @@
 <p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
 
 
-<p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe><br>
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
-<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
+<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b><br>
+<iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
 
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
