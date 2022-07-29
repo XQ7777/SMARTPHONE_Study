@@ -7,11 +7,11 @@
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
 ### This is a study being conducted by the <a href="https://www.nrg-lab.co.uk/" target="_blank">NRG-Lab</a> by the following researchers:
-Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.uk</a>) 
+Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" >c.mccabe@reading.ac.uk</a>) 
 
-Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
+Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) 
 
-Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@student.reading.ac.uk</a>)
+Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
 <br>
 
 ### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#written-instructions) form. <br>Both contain the same information.
@@ -56,9 +56,9 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 
 **Step 1** <br>
 Download the <b>PsyMate 2</b> application from one of the links below, based on which mobile type you are using:<br><br>
-The **iPhone** link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
-The **Android** link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br>
-Both links are available on the PsyMate website: [https://www.psymate.eu](https://www.psymate.eu)<br><br>
+The **iPhone** link can be found here: <a href="https://apps.apple.com/gb/app/psymate-2/id1185231488" target="_blank">apple.com/gb/app/psymate-2</a> <br>
+The **Android** link can be found here: <a href="https://play.google.com/store/search?q=psymate%202&c=apps&gl=GB" target="_blank">google.com/store/psymate2</a><br>
+More information is available on the PsyMate website: <a href="https://www.psymate.eu" target="_blank">psymate.eu</a><br><br>
 Or you can open the AppStore yourself and download the application<br>by searching for <b>PsyMate 2</b> and looking for the logo:
 <br>
 <br>
