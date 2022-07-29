@@ -1,13 +1,13 @@
 <body style="background-color:e4e4e4;"></body>
 
-<p align="center"> <img width="200" src="nrg-logo.jpg" alt="logo"> </p>
+<p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
 
 <p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
 
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
 ### This is a study being conducted by the <a href="https://www.nrg-lab.co.uk/" target="_blank">NRG-Lab</a> by the following researchers:
-Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" >c.mccabe@reading.ac.uk</a>) 
+Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mccabe@reading.ac.uk</a>) 
 
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) 
 
