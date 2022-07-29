@@ -2,7 +2,7 @@
 
 <p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
 
-Jump to [information section](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)
+Jump to the [information section](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
 <b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b><br><br>
