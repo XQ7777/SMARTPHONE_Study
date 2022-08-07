@@ -18,7 +18,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_bl
 Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
 <br>
 
-### You can view the instructions in [<u>written</u>](README.md#written-instructions) form.
+### You can view the [<u>instructions</u>](README.md#instructions).
 
 <br>
 <br>
@@ -33,8 +33,18 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 <br>
 <br>
 
-# Written Instructions
+# Instructions
 
+### Timeline & Questionnaire
+<br>
+<br>
+<p align="center"><img style="height:200px" src="esm_timeline.png" alt="timeline"></p>
+
+
+<br>
+<br>
+
+### Setting up your app
 **Step 1** <br>
 Download the <b>PsyMate 2</b> application from one of the links below, based on which mobile type you are using:<br><br>
 The **iPhone** link can be found here: <a href="https://apps.apple.com/gb/app/psymate-2/id1185231488" target="_blank">apple.com/gb/app/psymate-2</a> <br>
