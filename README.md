@@ -18,7 +18,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_bl
 Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
 <br>
 
-### You can view the instructions in [<u>written</u>](README.md#written-instructions) form.<br>Both contain the same information.
+### You can view the instructions in [<u>written</u>](README.md#written-instructions) form.
 
 <br>
 <br>
