@@ -18,39 +18,17 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_bl
 Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
 <br>
 
-### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#written-instructions) form. <br>Both contain the same information.
+### You can view the instructions in [<u>written</u>](README.md#written-instructions) form.<br>Both contain the same information.
 
 <br>
 <br>
 <br>
 
-# Contribute To Research
+# Take Part!
 <br>
 <br>
 <p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> 
 
-<br>
-
-
-
-<br>
-
-# Instruction Video
-
-<iframe width="836" height="470" src="https://www.youtube.com/embed/AivE2o9IXr4" title="University of Reading || PsyMate2 || Study Instructions" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-<h3 style="color:red">IMPORTANT</h3>
-
-1.	Please fill in **ALL** questionnaires you are shown.
-2.	The beeps will begin the day **AFTER** you login.
-3.	Fill in the beep questionnaire **immediately or as soon as possible**. They are programmed to **expire**.
-4.	If you fail to complete a test, it’s okay. Please ensure you **complete as many as possible**. 
-5.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
-
-<h3 style="color:red">Remember: Every Beep Counts!</h3>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -125,9 +103,8 @@ Please complete this and then <b><u>log out</u></b> of the PsyMate app.
 
 1.	Please fill in **ALL** questionnaires you are shown.
 2.	The beeps will begin the day **AFTER** you login.
-3.	Fill in the beep questionnaire **immediately or as soon as possible**. They are programmed to **expire**.
-4.	If you fail to complete a test, it’s okay. Please ensure you **complete as many as possible**. 
-5.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
+3.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**.
+4.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
 <br>
