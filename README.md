@@ -46,9 +46,10 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 
 ### Timeline 
 <br>
-<p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
-<br>
 You will spend around <b>2 hours</b> completing the study over the 8-day period.
+<br>
+<br>
+<p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
 <br>
 <br>
 
