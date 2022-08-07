@@ -115,7 +115,8 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 **Step 5**<br> 
 Close or minimise the PsyMate App – you should start receiving 'beeps' the **DAY AFTER** you log in.<br> 
 If this does not occur, **please contact a member of the [research team](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)**.<br>
-You will be contacted **twice** during the study period by a researcher to check progress and/or troubleshoot.
+Also, you will be contacted **twice** during the study period by a researcher<br> 
+to check progress and troubleshoot (if required).
 
 <br>
 <br>
