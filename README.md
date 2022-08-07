@@ -76,15 +76,14 @@ Or you can open the AppStore yourself and download the application<br>by searchi
 <br>
 
 **Step 2**<br> 
-Scan your **unique QR code** you will have received by email.<br>If the login details don’t work, please email either <a href="mailto:a.sahni@pgr.reading.ac.uk">Angad Sahni</a> or <a href="mailto:t.vermani@student.reading.ac.uk">Tarun Vermani</a>. 
+Scan the **unique QR code** you will be given in the meeting. 
 
 <br>
 <br>
 
 **Step 3**<br>
-After completing the login process, please make sure you **complete all items**<br>
-before leaving this page or your data may not be usable.<br>
-The page should look like this:  
+After completing the login process, you will then **complete all items**.<br>
+The page will look like this:  
 <br>
 <br>
 <style>
@@ -104,7 +103,9 @@ The page should look like this:
 **Step 4** <br>
 Settings in your smartphone may not be optimal for the study.<br>
 Sometimes, notifications are **collected** on very active apps.<br>
-This means you will **not be able to answer any beeps**.<br>
+This means you will **not be able to answer any beeps** as they will **expire**<br>
+before you see the notifications.
+<br>
 <br>
 To change settings accordingly, please visit: <a href="https://dontkillmyapp.com/" target="blank_">https://dontkillmyapp.com/</a>
 
@@ -112,14 +113,14 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 
 **Step 5**<br> 
-Close or minimise the PsyMate App – you should start receiving 'beeps' the day **AFTER** you log in.<br> 
-If this does not occur, **please contact a member of the [research team](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)**.
+Close or minimise the PsyMate App – you should start receiving 'beeps' the **DAY AFTER** you log in.<br> 
+If this does not occur, **please contact a member of the [research team](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)**.<br>
+You will be contacted **twice** during the study period by a researcher to check progress and/or troubleshoot.
 
 <br>
 <br>
 
 **Step 6**<br>
-**Only the Beep questionnaire will be repeated**. <br>
 After the final ‘beep’ prompt on <b>day 7</b>, you will receive a **debrief form** to complete.<br> 
 Please complete this and then <b><u>log out</u></b> of the PsyMate app.
 
