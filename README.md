@@ -38,7 +38,7 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 ### Timeline & Questionnaire
 <br>
 <br>
-<p align="center"><img style="height:200px" src="esm_timeline.png" alt="timeline"></p>
+<p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
 
 
 <br>
