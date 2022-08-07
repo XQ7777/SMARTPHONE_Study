@@ -106,7 +106,7 @@ Settings in your smartphone may not be optimal for the study.<br>
 Sometimes, notifications are **collected** on very active apps.<br>
 This means you will **not be able to answer any beeps**.<br>
 <br>
-To change settings accordingly, please visit: https://dontkillmyapp.com/.
+To change settings accordingly, please visit: [https://dontkillmyapp.com/](https://dontkillmyapp.com/).
 
 <br>
 <br>
