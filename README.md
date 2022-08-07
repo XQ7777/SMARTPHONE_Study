@@ -35,6 +35,15 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 
 # Instructions
 
+<b>Contents:</b><br>
+[Timeline](README.md#timeline) <br>
+[Beep Questionnaire](README.md#beep-questionnaire) <br>
+[Setting Up Your App](README.md#setting-up-your-app) 
+<br>
+<br>
+<br>
+<br>
+
 ### Timeline 
 <br>
 <p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
@@ -50,7 +59,7 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 <br>
 <br>
 
-### Setting up your app
+### Setting Up Your App
 **Step 1** <br>
 Download the <b>PsyMate 2</b> application from one of the links below, based on which mobile type you are using:<br><br>
 The **iPhone** link can be found here: <a href="https://apps.apple.com/gb/app/psymate-2/id1185231488" target="_blank">apple.com/gb/app/psymate-2</a> <br>
