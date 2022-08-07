@@ -112,28 +112,11 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
-**Step 5**<br> 
-Close or minimise the PsyMate App – you should start receiving 'beeps' the **DAY AFTER** you log in.<br> 
-If this does not occur, **please contact a member of the [research team](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)**.<br>
-Also, you will be contacted **twice** during the study period by a researcher<br> 
-to check progress and troubleshoot (if required).
-
-<br>
-<br>
-
-**Step 6**<br>
-After the final ‘beep’ prompt on <b>day 7</b>, you will receive a **debrief form** to complete.<br> 
-Please complete this and then <b><u>log out</u></b> of the PsyMate app.
-
-<br>
-<br>
-
 <h3 style="color:red">IMPORTANT</h3>
 
-1.	Please fill in **ALL** questionnaires you are shown.
-2.	The beeps will begin the day **AFTER** you login.
-3.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**.
-4.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
+1.	The beeps will begin the day **AFTER** you login.
+2.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**.
+3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
 <br>
