@@ -117,7 +117,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 
 1.	The beeps will begin the day **AFTER** you login.
 2.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**.
-3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
+3.	Be sure to <b><u>log out</u></b> after you have filled in the debrief form on **day 8**, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
 <br>
