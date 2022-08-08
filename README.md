@@ -36,10 +36,10 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 # Instructions
 
 <b>Contents:</b><br>
-[Timeline](README.md#timeline) <br>
-[Beep Questionnaire](README.md#beep-questionnaire) <br>
-[Setting Up Your App](README.md#setting-up-your-app) <br>
-[IMPORTANT](README.md#important)
+- [Timeline](README.md#timeline) <br>
+- [Beep Questionnaire](README.md#beep-questionnaire) <br>
+- [Setting Up Your App](README.md#setting-up-your-app) <br>
+- [IMPORTANT](README.md#important)
 <br>
 <br>
 <br>
