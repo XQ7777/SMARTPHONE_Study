@@ -50,7 +50,7 @@ You will spend around <b>4-5 hours</b> completing the study over the 8-day perio
 <br>
 <br>
 <p align="center">You need to be **SWITCHED ON** during this study because</p>
-<p align="center" style="color:red">Every Beep Counts!</p>
+<p align="center" style="color:red">**Every Beep Counts!**</p>
 <br>
 <br>
 <p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
