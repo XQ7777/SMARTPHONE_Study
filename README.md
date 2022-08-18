@@ -25,10 +25,10 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 <br>
 <br>
 
-# Take Part!
+<!--- Take Part!
 <br>
 <br>
-<!--- <p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> --->
+<p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> --->
 
 
 <br>
