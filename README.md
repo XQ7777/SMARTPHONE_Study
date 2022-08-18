@@ -38,9 +38,9 @@ Take Part!
 # Instructions
 <b>Contents:</b><br>
 - [Timeline](README.md#timeline) <br>
+- [IMPORTANT](README.md#important)<br>
 - [Beep Questionnaire](README.md#beep-questionnaire) <br>
-- [Setting Up Your App](README.md#setting-up-your-app) <br>
-- [IMPORTANT](README.md#important)
+- [Setting Up Your App](README.md#setting-up-your-app) 
 <br>
 <br>
 <br>
@@ -58,11 +58,15 @@ You will spend around <b>4-5 hours</b> completing the study over the 7-day perio
 <p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
 <br>
 <br>
+<h3 style="color:red">IMPORTANT</h3>
 
-You will receive the **debrief form** at around **6pm** on day 7.<br>
-To be on the **safe side**, please **logout** on **DAY 8**.<br> 
-This ensures that **no more beeps are to come and the study is over**.<br>
-You **MUST** log out or else the data will not be sent.<br>
+1. You will receive the **debrief form** at around **6pm** on day 7.<br> 
+   - To be on the **safe side**, please **logout** on **DAY 8**. 
+   - This ensures that **no more beeps are to come and the study is over**.<br> 
+   - You **MUST** log out or else the data will not be sent.<br>
+<br>
+
+2.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**.
 
 <br>
 <br>
@@ -125,7 +129,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 
 <br>
 <br>
-
+<!---
 <h3 style="color:red">IMPORTANT</h3>
 
 1.	The beeps will begin the day **AFTER** you login.
@@ -133,6 +137,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 3.	Be sure to <b><u>log out</u></b> after you have filled in all the 'beeps' and the debrief form on **day 7**, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
+--->
 <br>
 <br>
 <br>
