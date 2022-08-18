@@ -57,6 +57,11 @@ You will spend around <b>4-5 hours</b> completing the study over the 7-day perio
 <br>
 <br>
 
+You will receive the **debrief form** around **6pm** on day 7.
+
+<br>
+<br>
+
 ### Beep Questionnaire
  <br>
  <p align="center">You simply choose from a <b>set of options or rate using a scale</b>.<br>
