@@ -58,7 +58,9 @@ You will spend around <b>4-5 hours</b> completing the study over the 7-day perio
 <br>
 
 You will receive the **debrief form** around **6pm** on day 7.<br>
-You must **log out** after all beeps of the day have been filled, or else the data will not be sent.
+To be on the **safe side**, please **logout** on **DAY 8**.<br> 
+This ensures to no more beeps are to come and the study is over.<br>
+You must **log out** or else the data will not be sent.<br>
 
 <br>
 <br>
