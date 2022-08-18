@@ -17,7 +17,8 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_bl
 
 Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
 <br>
-<!---
+
+
 ### You can skip to the [<u>instructions</u>](README.md#instructions).
 
 <br>
@@ -27,8 +28,9 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" tar
 # Take Part!
 <br>
 <br>
-<p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> 
---->
+<!--- <p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> --->
+
+
 <br>
 <br>
 <br>
