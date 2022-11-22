@@ -15,7 +15,9 @@ Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mc
 
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) 
 
-Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>)
+Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>) 
+
+Manasa Veluvali, MSc Student (<a href="mailto:m.veluvali@student.reading.ac.uk" target="_blank">m.veluvali@student.reading.ac.uk</a>)
 <br>
 
 
