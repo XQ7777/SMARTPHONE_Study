@@ -50,7 +50,7 @@ Take Part!
 
 ### Timeline 
 <br>
-You will spend around <b>4-5 hours</b> completing the study over the 7-day period.
+You will spend around <b>1-1.5 hours</b> completing the study over the 7-day period.
 <br>
 <br>
 <p align="center">You need to be <b><u>SWITCHED ON</u></b> during this study because</p>
