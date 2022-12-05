@@ -8,7 +8,7 @@ Jump to the [information section](README.md#this-is-a-study-being-conducted-by-t
 <b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b></p><br><br>
 <h2>Pre-Screening Survey</h2> 
 
-<p align="center"> If you qualify, we'll contact you! <br>
+<p align="center"> If you qualify, we'll contact you! <br><br><br>
    
 <iframe src="https://reading.onlinesurveys.ac.uk/smartphone_prescreening_survey" width="800" height="800"></iframe></p><br>
 
