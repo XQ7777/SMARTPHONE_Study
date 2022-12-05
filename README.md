@@ -10,7 +10,7 @@ Jump to the [information section](README.md#this-is-a-study-being-conducted-by-t
 
 <p> If you qualify, we'll contact you! <br>
    
-<iframe src="https://reading.onlinesurveys.ac.uk/smartphone_prescreening_survey" width="700" height="800"></iframe></p><br>
+<iframe src="https://reading.onlinesurveys.ac.uk/smartphone_prescreening_survey" width="800" height="800"></iframe></p><br>
 
 <!-- <p><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p><br> -->
 
