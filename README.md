@@ -6,11 +6,10 @@ Jump to the [information section](README.md#this-is-a-study-being-conducted-by-t
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
 <b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b></p><br><br>
-<h2>Pre-Screening Survey</h2> 
+<h2>Many thanks for your interest!</h2> 
 
-<p align="center"> If you qualify, we'll contact you! <br><br><br>
-   
-<iframe src="https://reading.onlinesurveys.ac.uk/smartphone_prescreening_survey" width="800" height="800"></iframe></p><br>
+<p align="center"> We will be in touch with further details about how to participate. <br><br><br>
+
 
 <!-- <p><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p><br> -->
 
@@ -20,11 +19,12 @@ This page contains information about the SMARTPHONE study being conducted by the
 ### This is a study being conducted by the <a href="https://www.nrg-lab.co.uk/" target="_blank">NRG-Lab</a> by the following researchers:
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mccabe@reading.ac.uk</a>) 
 
+Xueqing Ma., PhD Student (<a href="mailto:xueqing.ma@pgr.reading.ac.uk" target="_blank">xueqing.ma@pgr.reading.ac.uk</a>)
+
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) 
 
-Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk" target="_blank">t.vermani@student.reading.ac.uk</a>) 
+Sena Demir Kassem, PhD Student (<a href="mailto:s.demirkassem@student.reading.ac.uk" target="_blank">s.demirkassem@student.reading.ac.uk</a>) 
 
-Manasa Veluvali, MSc Student (<a href="mailto:m.veluvali@student.reading.ac.uk" target="_blank">m.veluvali@student.reading.ac.uk</a>)
 <br>
 
 
