@@ -17,13 +17,13 @@ Jump to the [information section](README.md#this-is-a-study-being-conducted-by-t
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br><br>
 
 ### This is a study being conducted by the <a href="https://www.nrg-lab.co.uk/" target="_blank">NRG-Lab</a> by the following researchers: <br>
-Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mccabe@reading.ac.uk</a>) <br>
+<p align="left">Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mccabe@reading.ac.uk</a>) <br>
 
-Xueqing Ma., PhD Student (<a href="mailto:xueqing.ma@pgr.reading.ac.uk" target="_blank">xueqing.ma@pgr.reading.ac.uk</a>) <br>
+<p align="left">Xueqing Ma., PhD Student (<a href="mailto:xueqing.ma@pgr.reading.ac.uk" target="_blank">xueqing.ma@pgr.reading.ac.uk</a>) <br>
 
-Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) <br>
+<p align="left">Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk" target="_blank">a.sahni@pgr.reading.ac.uk</a>) <br>
 
-Sena Demir Kassem, PhD Student (<a href="mailto:s.demirkassem@student.reading.ac.uk" target="_blank">s.demirkassem@student.reading.ac.uk</a>) 
+<p align="left">Sena Demir Kassem, PhD Student (<a href="mailto:s.demirkassem@student.reading.ac.uk" target="_blank">s.demirkassem@student.reading.ac.uk</a>) 
 
 <br>
 
