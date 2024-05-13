@@ -57,21 +57,21 @@ Take Part!
 
 ### Timeline 
 <br>
-You will spend around <b>1.5-2 hours</b> completing the study over the 6-day period.
+You will spend around <b>1.5-2 hours</b> completing the study over the 7-day period.
 <br>
 <br>
 <p align="center">You need to be <b><u>SWITCHED ON</u></b> during this study because</p>
 <p align="center" style="color:red"><b>Every Beep Counts!</b></p>
 <br>
 <br>
-<p align="center"><img style="height:300px" src="esm_timeline.png" alt="timeline"></p>
+<p align="center"><img style="height:300px" src="esm_timeline2.png" alt="timeline"></p>
 <br>
 <br>
 <h3 style="color:red">IMPORTANT</h3>
 
 1.	Fill in the beep questionnaire **immediately**. They are programmed to **expire**. <br>
 
-2. You will receive the **debrief form** at around **10pm** on day 6.<br> 
+2. You will receive the **debrief form** at around **10pm** on day 7.<br> 
    - Please logout **AFTER** the debrief as you will not receive any more beeps.<br>
    - You **MUST** log out or else the data will not be sent.<br>
 
