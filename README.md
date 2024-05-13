@@ -14,7 +14,7 @@ Jump to the [information section](README.md#this-is-a-study-being-conducted-by-t
 <!-- <p><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p><br> -->
 
 
-This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
+This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br><br>
 
 ### This is a study being conducted by the <a href="https://www.nrg-lab.co.uk/" target="_blank">NRG-Lab</a> by the following researchers:
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk" target="_blank">c.mccabe@reading.ac.uk</a>) <br>
