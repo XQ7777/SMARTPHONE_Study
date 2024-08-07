@@ -116,7 +116,7 @@ The page will look like this:
         padding: 5px 5px;
       }
   </style>
-<p align="center" class="frame"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
+<p align="center" class="frame"> <img width="300" src="psymate2.0.png" alt="psymate2"> </p>
 <br>
 <br>
 
