@@ -52,7 +52,7 @@ Take Part!
 
 ### Timeline 
 <br>
-You will spend around <b>1.5-2 hours</b> completing the study over the 7-day period.
+You will spend around <b>2.5-3 hours</b> completing the study over the 7-day period.
 <br>
 <br>
 <p align="center">You need to be <b><u>SWITCHED ON</u></b> during this study because</p>
@@ -76,7 +76,7 @@ You will spend around <b>1.5-2 hours</b> completing the study over the 7-day per
 ### Beep Questionnaire
  <br>
  <p align="center">You simply choose from a <b>set of options or rate using a scale</b>.<br>
- It takes just <b>1-2 minutes</b> to complete each time!<br><br><img style="height:500px" src="beep.png" alt="timeline">
+ It takes just <b>1-2 minutes</b> to complete each time!<br><br><img style="height:500px" src="beep2.png" alt="timeline">
  </p>
 <br>
 <br>
