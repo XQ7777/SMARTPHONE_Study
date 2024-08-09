@@ -52,7 +52,7 @@ Take Part!
 
 ### Timeline 
 <br>
-You will spend around <b>2.5-3 hours</b> completing the study over the 7-day period.
+You will spend around <b>10-15 min </b> per day over 6 days to complete the study.
 <br>
 <br>
 <p align="center">You need to be <b><u>SWITCHED ON</u></b> during this study because</p>
@@ -143,7 +143,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 #myBtn {
