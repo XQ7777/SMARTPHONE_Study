@@ -84,7 +84,7 @@ Take Part!
 
 ### Timeline 
 <br>
-You will spend around <b>10-15 min </b> per day over 6 days to complete the study.
+You will spend around <b>2.5-3 hours</b> completing the study over the 7-day period.
 <br>
 <br>
 <p align="center">You need to be <b><u>SWITCHED ON</u></b> during this study because</p>
@@ -173,7 +173,38 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
+<<<<<<< HEAD
 </html>
+=======
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #53B2C5;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: white;
+  color: #53B2C5;
+}
+</style>
+>>>>>>> parent of d175e1f (made the font size larger)
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><b>Top</b></button>
 
