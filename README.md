@@ -106,7 +106,8 @@ After completing the login process, you will then **complete all items**.<br>
 The page will look like this:  
 <br>
 <br>
-<style>
+
+<!--<style>
       .frame {
         width: 300px;
         height: 634px;
@@ -115,7 +116,8 @@ The page will look like this:
         margin: auto;
         padding: 5px 5px;
       }
-  </style>
+  </style> -->
+
 <p align="center" class="frame"> <img width="300" src="psymate_2.png" alt="psymate2"> </p>
 <br>
 <br>
@@ -139,12 +141,10 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
-# font size was 20 px & 18 px previously
-
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 50px;
+  font-size: 20px;
 }
 
 #myBtn {
@@ -153,7 +153,7 @@ body {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  font-size: 60px;
+  font-size: 18px;
   border: none;
   outline: none;
   background-color: #53B2C5;
