@@ -153,7 +153,7 @@ body {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  font-size: 40px;
+  font-size: 60px;
   border: none;
   outline: none;
   background-color: #53B2C5;
