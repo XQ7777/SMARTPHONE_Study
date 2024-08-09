@@ -143,7 +143,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #myBtn {
