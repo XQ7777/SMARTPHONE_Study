@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -24,7 +24,10 @@ body {
   background-color: white;
   color: #53B2C5;
 }
-</style>
+</style> -->
+<head>
+    <link rel="stylesheet" href="/SMARTPHONE_Study/custom.css">
+</head>
 
 <body style="background-color:e4e4e4;"></body>
 
