@@ -1,3 +1,31 @@
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #53B2C5;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: white;
+  color: #53B2C5;
+}
+</style>
+
 <body style="background-color:e4e4e4;"></body>
 
 <p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
@@ -141,33 +169,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
 
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: #53B2C5;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: white;
-  color: #53B2C5;
-}
-</style>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><b>Top</b></button>
 
