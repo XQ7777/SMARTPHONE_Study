@@ -25,6 +25,7 @@ body {
   color: #53B2C5;
 }
 </style> -->
+<html>
 <head>
     <link rel="stylesheet" href="/SMARTPHONE_Study/custom.css">
 </head>
@@ -172,7 +173,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
-
+</html>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><b>Top</b></button>
 
