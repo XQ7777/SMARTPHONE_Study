@@ -139,6 +139,7 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
+# font size was 20 px & 18 px previously
 
 <style>
 body {
@@ -152,7 +153,7 @@ body {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  font-size: 18px;
+  font-size: 40px;
   border: none;
   outline: none;
   background-color: #53B2C5;
