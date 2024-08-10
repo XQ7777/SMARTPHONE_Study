@@ -1,3 +1,4 @@
+<html>
 <head>
 <link rel="stylesheet" href="custom.css">
 </head>
@@ -145,6 +146,9 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 <br>
 
+
+</body>
+</html>
 
 <style>
 body {
