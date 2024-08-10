@@ -1,8 +1,10 @@
+<html>
 <head>
 <link rel="stylesheet" href="custom.css">
 </head>
 
 <body style="background-color:e4e4e4;"></body>
+</html>
 
 <p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
 
@@ -146,7 +148,6 @@ To change settings accordingly, please visit: <a href="https://dontkillmyapp.com
 <br>
 
 
-</body>
 
 <style>
 body {
