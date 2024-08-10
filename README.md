@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="custom.css">
+</head>
 
 <body style="background-color:e4e4e4;"></body>
 
