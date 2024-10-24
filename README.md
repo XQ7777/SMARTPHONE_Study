@@ -1,12 +1,5 @@
-<html>
-<head>
-<link rel="stylesheet" href="custom.css" type="text/css">
-</head>
+<body style="background-color:e4e4e4;"></body>
 
-<body style="background-color:e4e4e4;">
-<link rel="stylesheet" href="custom.css" type="text/css">
-</body>
-</html>
 
 <p align="center"><img width="200" src="nrg-logo.jpg" alt="logo"></p>
 
