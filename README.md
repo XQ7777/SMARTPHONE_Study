@@ -110,7 +110,7 @@ The page will look like this:
 <br>
 <br>
 
-<!--<style>
+<style>
       .frame {
         width: 300px;
         height: 634px;
@@ -119,7 +119,7 @@ The page will look like this:
         margin: auto;
         padding: 5px 5px;
       }
-  </style> -->
+  </style>
 
 <p align="center" class="frame"> <img width="300" src="psymate_2.png" alt="psymate2"> </p>
 <br>
@@ -173,6 +173,7 @@ body {
   color: #53B2C5;
 }
 </style>
+
 
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><b>Top</b></button>
